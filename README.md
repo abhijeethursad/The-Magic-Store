@@ -58,7 +58,7 @@
 
 ## 🤝 Connect with Me
 * **LinkedIn:** [Abhijeet Hursad](https://www.linkedin.com/in/abhijeethursad)
-* **Portfolio:** [GitHub Profile](https://github.com/iam-abhi121)
+* **Portfolio:** [GitHub Profile](https://github.com/abhijeethursad)
 
 ---
 *⭐ If you like this project, please give it a star!*
